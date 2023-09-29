@@ -1,5 +1,8 @@
 # 🙇🏻 Java_Tetris
-Java 테트리스 게임
+![image](https://github.com/iamsoojung/Java_Tetris/assets/65272297/df0f80c4-64a4-43d8-b360-fc3c1325d5d1)
+
+![image](https://github.com/iamsoojung/Java_Tetris/assets/65272297/b5549971-0dd1-4b0f-844a-b22514fca782)
+
 
 ## 프로젝트 설치 및 실행
 1. IDE 준비 (Eclipse 설치)
